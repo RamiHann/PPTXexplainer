@@ -1,4 +1,4 @@
-```markdown
+
 # GPT-Explainer Project
 
 ## Overview
@@ -15,9 +15,8 @@ The GPT-Explainer project is designed to explain PowerPoint presentations using 
 ### Python Packages
 
 Install the required packages using `pip`:
-```sh
+
 pip install -r requirements.txt
-```
 
 ### Environment Variables
 
